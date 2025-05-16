@@ -7,3 +7,4 @@ This is my personal introduction page, built to share a bit about myself.
 🔗 Live site: https://emiryksell.github.io/emir.dev/
  
 > Clean. Simple. Personal.
+ 
